@@ -1,11 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="ebb69fb1-2990-4bef-a40b-77e7b11eb9bb" name="Changes" comment="" />
+    <list default="true" id="ebb69fb1-2990-4bef-a40b-77e7b11eb9bb" name="Changes" comment="Initial commit">
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/vdab/Hoofdprogramma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/vdab/util/Isbn13Exception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/vdab/util/Voorwerp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/vdab/voorwerpen/Boek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/vdab/voorwerpen/Boekenrek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/vdab/voorwerpen/LeesBoek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/vdab/voorwerpen/WoordenBoek.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -14,19 +34,35 @@
   "associatedIndex": 6
 }]]></component>
   <component name="ProjectId" id="2bLZiSdz5kkSZcIooT98qh26Dzd" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Hoofdprogramma.executor": "Run",
+    "Application.Main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/joann/IdeaProjects/Oefeingen vanaf hoofdstuk 16/Isbn13nummer/src/be/vdab/voorwerpen",
+    "onboarding.tips.debug.path": "C:/Users/joann/IdeaProjects/Oefeingen vanaf hoofdstuk 16/Isbn13nummer/src/Main.java",
+    "run.code.analysis.last.selected.profile": "pProject Default"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\joann\IdeaProjects\Oefeingen vanaf hoofdstuk 16\Isbn13nummer\src\be\vdab\voorwerpen" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="be.vdab.util" />
+      <recent name="be.vdab" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -36,6 +72,19 @@
       <option name="presentableId" value="Default" />
       <updated>1705996447697</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1705996477337</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1705996477337</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
   </component>
 </project>
