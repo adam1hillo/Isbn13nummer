@@ -1,6 +1,8 @@
 package be.vdab.voorwerpen;
 
 
+import be.vdab.util.Isbn13Exception;
+
 public class WoordenBoek extends Boek {
 
     private String taal;

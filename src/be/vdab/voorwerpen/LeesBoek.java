@@ -1,6 +1,7 @@
 package be.vdab.voorwerpen;
 
 
+import be.vdab.util.Isbn13Exception;
 
 public class LeesBoek extends Boek {
 

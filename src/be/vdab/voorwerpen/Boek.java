@@ -13,7 +13,7 @@ public abstract class Boek implements Voorwerp {
 
 
 
-    public Boek(String titel, String auteur, float aankoopPrijs, String genre, String isbn13) {
+    public Boek(String titel, String auteur, float aankoopPrijs, String genre, String isbn13){
         setIsbn13(isbn13);
         setTitel(titel);
         setAuteur(auteur);
@@ -72,6 +72,7 @@ public abstract class Boek implements Voorwerp {
             throw new Isbn13Exception("Ongelidig ISBN", isbn13);
         }
     }
+
 
     private boolean checkISBNnummer (String isbn13) {
         if (isbn13 == null || isbn13.isBlank() || isbn13.replaceAll("-", "").length() != 13) {
